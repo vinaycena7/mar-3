@@ -1,0 +1,3 @@
+n=int(input('enter n:'))
+l=[10,9,8,7,6,5,4,3,2,1]
+print(l)
